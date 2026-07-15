@@ -1,6 +1,7 @@
 .env.local
 .env.qa
 .env.prod
+architecture.md
 __pycache__/
 *.pyc
 .venv/
