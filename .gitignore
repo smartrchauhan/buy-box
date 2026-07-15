@@ -1,0 +1,17 @@
+.env.local
+.env.qa
+.env.prod
+__pycache__/
+*.pyc
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+htmlcov/
+.coverage
+dist/
+build/
+*.egg-info/
+cdk.out/
+infra/.venv/
+.DS_Store

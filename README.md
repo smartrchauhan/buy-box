@@ -46,3 +46,9 @@ only.
 - `tests/` — mirrors `src/`, plus `tests/smoke/` for post-deploy checks (added in later phases)
 - `infra/` — AWS CDK (Python) infrastructure-as-code (added in Phase 4)
 - `docs/` — runbooks and supporting docs
+
+## License
+
+Copyright (c) 2026 Rambrij Chauhan. All Rights Reserved. See [`LICENSE`](./LICENSE) — this
+code is proprietary; no reuse, distribution, or derivative works are permitted without
+written permission.
