@@ -2,6 +2,8 @@
 .env.qa
 .env.prod
 architecture.md
+docs/design-doc.html
+docs/*.html
 __pycache__/
 *.pyc
 .venv/

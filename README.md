@@ -4,6 +4,13 @@ Multi-tenant buy-box (offer-ranking) engine, built as a sellable B2B product for
 operators. See [`architecture.md`](./architecture.md) for the full phased design — this
 README only covers day-to-day local development.
 
+## Architecture
+
+![Buy Box Engine high-level architecture: local development today (client, uvicorn FastAPI process, Postgres, LocalStack) versus the target AWS production shape (WAF, API Gateway, Lambda, RDS Multi-AZ, SQS with DLQ)](./docs/images/architecture.png)
+
+The full technical design document (data model, API reference, security guarantees, testing
+strategy) is kept locally and is not part of this repo — ask the maintainer for a copy.
+
 ## Prerequisites
 
 - Python 3.13
