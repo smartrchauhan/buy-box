@@ -49,6 +49,6 @@ only.
 
 ## License
 
-Copyright (c) 2026 Harshika Chauhan. All Rights Reserved. See [`LICENSE`](./LICENSE) — this
+Copyright (c) 2026 Rambrij Chauhan. All Rights Reserved. See [`LICENSE`](./LICENSE) — this
 code is proprietary; no reuse, distribution, or derivative works are permitted without
 written permission.
